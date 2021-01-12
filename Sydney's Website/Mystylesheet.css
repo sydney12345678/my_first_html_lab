@@ -1,0 +1,36 @@
+.color {
+  color: #33ff33;
+  font-size:30px;
+  }
+
+.grow:hover {
+  -webkit-transform: scale(1.3);
+  -ms-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+.about{
+  font-size:28px;
+}
+
+p:hover, h1 :hover, a:hover {
+  background-color: turquoise;
+}
+
+a {
+  font-size: 30;
+}
+
+article {
+  font-size: 30;
+}
+
+table{
+  font-size: 30;
+  color: turquoise;
+  background-color:blue;
+}
+
+img {
+  border: 10px solid #30D5C8;
+}
